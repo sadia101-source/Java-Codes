@@ -1,0 +1,2 @@
+Hey, this is a file.This is an example of writing into a file using Java.
+File handling in Java is simple using FileWriter class.
