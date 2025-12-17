@@ -1,5 +1,3 @@
-package week_12;
-
 import java.util.Scanner;
 
 class InvalidAgeException extends Exception {
@@ -7,7 +5,6 @@ class InvalidAgeException extends Exception {
 }
  
 public class ques4 {
-    
     public static void ValidateAge (int a) throws InvalidAgeException{
         if (a<18)
             throw new InvalidAgeException();
@@ -27,3 +24,4 @@ public class ques4 {
     }
     
 }
+
