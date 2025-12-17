@@ -1,5 +1,3 @@
-package week_10;
-
 class ObjectOriented {
     void abstraction() {
         System.out.println("Abstraction: Hiding internal details and showing only essential features.");
@@ -32,3 +30,4 @@ class JavaLanguage extends ObjectOriented {
         java.interfaces();
     }
 }
+
