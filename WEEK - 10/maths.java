@@ -12,7 +12,6 @@ class Operations{
         if (c > max) max = c;
         
         sum = a + b + c;
-
         System.out.println("Integers:");
         System.out.println("Minimum = " + min);
         System.out.println("Maximum = " + max);
@@ -68,3 +67,4 @@ class Operations{
         op.minMaxAdd('A', 'C', 'B');
     }
 }
+
