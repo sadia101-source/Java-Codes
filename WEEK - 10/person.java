@@ -1,5 +1,3 @@
-package week_10;
-
 class Person{
     String name;
     String phone;
@@ -54,4 +52,5 @@ class Person{
         Person.DateOfBirth dob = person.new DateOfBirth(12, 5, 1995);
         person.display(address, dob);
     }
+
 }
