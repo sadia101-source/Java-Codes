@@ -1,5 +1,3 @@
-package week_12;
-
 public class ques1 {
     public static void divide(int a, int b) throws ArithmeticException {
         int result = a / b;  
@@ -18,4 +16,5 @@ public class ques1 {
         System.out.println("Program ended sucessfully");
     }
     
+
 }
