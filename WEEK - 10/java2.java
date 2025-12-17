@@ -1,5 +1,3 @@
-package week_10;
-
 class ObjectOriented {
     void abstraction() {
         System.out.println("Abstraction: Hiding internal details and showing only essential features.");
@@ -53,3 +51,4 @@ public class java2 {
         cpp.friendFunction();
     }
 }
+
