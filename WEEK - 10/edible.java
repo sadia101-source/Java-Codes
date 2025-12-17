@@ -1,5 +1,3 @@
-package week_10;
-
 class Edible{
     static class Fruit {
         static void fruitDetails() {
@@ -32,3 +30,4 @@ class Edible{
         vegObj.vegetablePackaging();
     }
 }
+
