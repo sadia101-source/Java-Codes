@@ -1,5 +1,3 @@
-package week_10;
-
 class Operations{
     void minMaxAdd(int a, int b, int c){
         int min, max, sum;
@@ -67,4 +65,5 @@ class Operations{
         op.minMaxAdd('A', 'C', 'B');
     }
 }
+
 
