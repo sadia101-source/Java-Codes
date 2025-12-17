@@ -1,5 +1,3 @@
-package week_10;
-
 class University {
     String name;
     int ranking;
@@ -49,3 +47,4 @@ class Department extends Faculty {
         dept.Display();
     }
 }
+
