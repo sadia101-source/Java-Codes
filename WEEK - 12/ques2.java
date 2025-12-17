@@ -1,5 +1,3 @@
-package week_12;
-
 import java.io.*;
 import java.io.FileReader;
 public class ques2 {
@@ -21,4 +19,5 @@ public class ques2 {
     public static void main(String[] args) {
         f1();
     } 
+
 }
