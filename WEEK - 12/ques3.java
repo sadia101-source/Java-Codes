@@ -1,5 +1,3 @@
-package week_12;
-
 import java.util.Scanner;
 class InsufficientFundsException extends Exception{
     
@@ -28,4 +26,5 @@ public class ques3 {
         System.out.println("Current balance = " + balance);
     }
     
+
 }
